@@ -1,0 +1,69 @@
+body {
+    background-color: #c5ebd6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    border-radius: 10px;
+    padding: 20px; 
+    background-color: white;
+    min-width: 280px;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0px 0px 10px #1a5c37;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline red;
+}
+table { border: 1px solid black;
+    width: 800px;
+    
+}
+
+th, td { border: 1px solid black;
+    padding: 5px;
+    color: brown;
+}
+.dia {
+    background-color: aqua;
+}
+th {
+    background-color: rgb(180, 208, 221);
+}
+tbody > tr:nth-child(2n) {
+    background-color: rgb(178, 255, 255);}
+    main > table {
+        background-color: rgba(240, 237, 243, 0.596);
+        margin: auto;
+    }
+    a {
+        text-decoration: none;
+        font-weight: 800;
+
+    }
+    a:hover {
+        text-decoration: underline;
+        font-size: 17px;
+        color: black;
+    }
+    a:visited {
+        color: rgb(214, 71, 15);
+       
+    }
+    h2 {
+        text-align: center;
+        margin-top: 40px;
+    }
+    aside {
+        border: 1px solid rgb(72, 72, 199);
+        border-radius: 10px;
+        box-shadow: 5px 5px 0px 5px rgba(0, 0, 0, 0.144);
+        background-color: #c5ebd6;
+    }
+    aside > ul {
+        list-style-position: inside;
+        columns: 2;
+        margin-left: 10px;
+    }
