@@ -1,6 +1,9 @@
 body {
     background-color: #c5ebd6;
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url(passagens-aereas-gramado-capa2019-04.jpg);
+    background-size: cover;
+    background-position: center right;
 }
 main {
     border-radius: 10px;
@@ -20,7 +23,7 @@ h1 {
     text-decoration: underline red;
 }
 table { border: 1px solid black;
-    width: 800px;
+    
     
 }
 
