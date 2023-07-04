@@ -12,7 +12,9 @@ main {
     box-shadow: 0px 0px 10px #1a5c37;
     margin-bottom: 30px;
 }
-
+.container {
+    overflow-x: auto;
+}
 h1 {
     text-align: center;
     text-decoration: underline red;
