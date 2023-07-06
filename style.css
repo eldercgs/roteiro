@@ -58,8 +58,9 @@ tbody > tr:nth-child(2n) {
     }
     a:hover {
         text-decoration: underline;
-     
-        color: black;
+        font-weight: bolder;
+       
+        
     }
     a:visited {
         color: rgb(214, 71, 15);
